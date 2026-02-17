@@ -1,0 +1,1 @@
+lion = { name = 'lion', label = 'lion', type = 'item',weight = 1, image = 'lion.png',unique = true, useable = true, shouldClose = true, description = 'lion' },
